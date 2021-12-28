@@ -215,7 +215,7 @@ restartGameBtn.addEventListener('click', restartGame);
 function restartGame() {
     wrongAnswersNumber.textContent = 0;
     wrongAnswers = 0;
-    question.textContent = "Guess the programming language!"
+    question.textContent = "Guess the persian word!"
     for (let i = 0; i < letters.length; i++) {
         letters[i].remove();
 
