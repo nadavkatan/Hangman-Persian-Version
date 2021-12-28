@@ -254,7 +254,7 @@ function createHintImgs(){
         let hintImage = document.createElement('img'); 
         hintImage.src = `images/${hintCounter}.jpg`;
         hintImage.setAttribute('id', hintCounter);
-        hintImage.style.cssText = 'width: 25%; position:absolute; display:none;'
+        hintImage.style.cssText = 'width: 25%; position:absolute; display:none; margin-top: 1em;';
         hintImage.classList.add('hint-img');
         hintContainer.appendChild(hintImage);
         hintCounter++;
