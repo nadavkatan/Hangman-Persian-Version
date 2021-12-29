@@ -16,7 +16,7 @@ let letterBtns = [];
 let letters = [];
 let imgCounter = 0;
 let imageElements = [];
-let words = ['kuni', 'diune', 'chereft', 'guze-char'];
+let words = ['kuni', 'diune', 'chereft', 'guze-char','gole-gabzaboon', 'moche-machordi', 'kekemtoosh', 'juneman', 'dombichi', 'gandide'];
 let hasWon = false;
 
 
